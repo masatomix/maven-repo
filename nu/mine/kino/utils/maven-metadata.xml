@@ -3,10 +3,9 @@
   <groupId>nu.mine.kino</groupId>
   <artifactId>utils</artifactId>
   <versioning>
-    <release>0.1.3</release>
     <versions>
-      <version>0.1.3</version>
+      <version>0.1.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170804000419</lastUpdated>
+    <lastUpdated>20170804021120</lastUpdated>
   </versioning>
 </metadata>
