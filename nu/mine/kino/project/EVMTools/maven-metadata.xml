@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nu.mine.kino.project</groupId>
+  <artifactId>EVMTools</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.13-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190221161250</lastUpdated>
+  </versioning>
+</metadata>
